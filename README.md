@@ -78,5 +78,5 @@ Pogledaj [sekciju 12 spec-a](./konsultacije-spec.md#12-plan-implementacije-po-fa
 
 ## Autori
 
-Filip Filipovic
-Stefan Mikic
+- **Filip Filipovic**
+- **Stefan Mikic**
