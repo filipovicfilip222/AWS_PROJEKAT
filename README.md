@@ -75,3 +75,8 @@ Pogledaj [sekciju 12 spec-a](./konsultacije-spec.md#12-plan-implementacije-po-fa
 - **Async AI processing** preko S3 PUT event-a
 - **Cognito JWT** authorizer na API Gateway nivou
 - **Bedrock Claude Haiku 4.5** (global inference profile) za Q&A generisanje (multimodal: PDF/PPTX/slike)
+
+## Autori
+
+Filip Filipovic
+Stefan Mikic
